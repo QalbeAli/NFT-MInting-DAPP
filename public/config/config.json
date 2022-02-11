@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x65f1d06fcad820c305c2de64cb19afb9c2115682",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x65f1d06fcad820c305c2de64cb19afb9c2115682",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "RIN",
+    "ID": 4
+  },
+  "NFT_NAME": "ApniNFTs",
+  "SYMBOL": "APNFTs",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/apninfts",
+  "SHOW_BACKGROUND": true
+}
